@@ -72,39 +72,40 @@
 ## 💻 Padrões de commit
 
 FEAT: Adiciona um novo recurso ou funcionalidade.
-    Exemplo: FEAT - Adição da navbar
+  Exemplo: FEAT - Adição da navbar
 
 FIX: Corrige um bug.
-    Exemplo: FIX - Corrige o modal que não estava fechando
+  Exemplo: FIX - Corrige o modal que não estava fechando
 
 CHORE: Atualizações de manutenção que não alteram a lógica de negócio ou visual, como atualização de dependências, configurações de build, etc.
-    Exemplo: CHORE - Atualização das dependências do Node.js
+  Exemplo: CHORE - Atualização das dependências do Node.js
 
 DOCS: Altera a documentação, como o README, comentários no código ou arquivos de documentação do projeto.
-    Exemplo: DOCS - Atualiza README com informações sobre novas rotas
+  Exemplo: DOCS - Atualiza README com informações sobre novas rotas
 
 STYLE: Modifica a formatação do código, como espaços em branco, quebra de linha ou pontuação, sem alterar a lógica.
-    Exemplo: STYLE - Adiciona comentários no código para facilitar a leitura
+  Exemplo: STYLE - Adiciona comentários no código para facilitar a leitura
 
 REFACTOR: Refatora o código sem adicionar novas funcionalidades ou corrigir bugs, visando melhorar a estrutura, legibilidade ou desempenho.
-    Exemplo: REFACTOR - Refatora o código, deixando-o mais leve
+  Exemplo: REFACTOR - Refatora o código, deixando-o mais leve
 
 TEST: Adiciona, modifica ou remove testes unitários ou de integração.
-    Exemplo: TEST - Adiciona teste para o componente de login
+  Exemplo: TEST - Adiciona teste para o componente de login
 
 PERF: Melhora a performance.
-    Exemplo: PERF - Otimiza a execução de consultas no banco de dados
+Exemplo: PERF - Otimiza a execução de consultas no banco de dados
 
 BUILD: Altera o sistema de build ou as dependências externas, como npm, gradle, ou docker.
-    Exemplo: BUILD - Adiciona um Dockerfile para o ambiente de produção
+  Exemplo: BUILD - Adiciona um Dockerfile para o ambiente de produção
 
 REVERT: Reverte um commit anterior.
-    Exemplo: REVERT - Reverte a adição de autenticação de middleware
+  Exemplo: REVERT - Reverte a adição de autenticação de middleware
 
 HOTFIX: Corrige um bug crítico em produção de forma urgente.
-    Exemplo: HOTFIX - Corrige vulnerabilidade crítica na autenticação de usuários
+  Exemplo: HOTFIX - Corrige vulnerabilidade crítica na autenticação de usuários
 
 Convenções Adicionais
+
 Nomenclatura de Variáveis: Utiliza-se o padrão camelCase (ex: nomeCompleto).
 
 ---
