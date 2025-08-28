@@ -24,7 +24,7 @@
 - [MVP](#mvp)
 - [Product Backlog](#backlog)
 - [Equipe](#equipe)
-- [Backlog da Sprint1](https://github.com/DuuhZero/backlog/blob/main/docs/Backlog_sprint1.MD)
+- [Backlog da Sprint1](#backsprint)
 ---
 
 ## 🏥 Dores do Cliente
@@ -136,6 +136,11 @@ Nomenclatura de Variáveis: Utiliza-se o padrão camelCase (ex: nomeCompleto).
 
 
 ---
+
+## Sprint Backlog <a name="backsprint"><a>
+
+
+[Clique aqui para ser redirecionado](https://github.com/DuuhZero/backlog/tree/main/docs)
 
 ## 👥 Equipe <a name="equipe"><a>
 |  Foto        |     Função    |           Nome            |                            LinkedIn                            |                      GitHub                       |
