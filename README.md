@@ -24,7 +24,7 @@
 - [MVP](#mvp)
 - [Product Backlog](#backlog)
 - [Equipe](#equipe)
-- [Backlog da Sprint1](#backsprint)
+- [Sprint Backlog](#backsprint)
 ---
 
 ## 🏥 Dores do Cliente
