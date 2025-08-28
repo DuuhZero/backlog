@@ -1,1 +1,10 @@
-Este vai ser o backlog da sprint 1
+## 📜 Backlog Sprint 1
+
+| RANK | SPRINT | PRIORIDADE | ESTIMATIVA | USER STORY (NOME)                                             | STATUS |
+|:----:|:------:|:----------:|:---      -:|:-------------------------------------------------------------:|:------:|
+| 1    |       |             |            |                                                               |        |
+| 2    |       |             |            |                                                               |        |
+| 3    |       |             |            |                                                               |        |
+| 4    |       |             |            |                                                               |        |
+| 5    |       |             |            |                                                               |        |
+| 6    |       |             |            |                                                               |        |
