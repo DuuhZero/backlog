@@ -137,10 +137,12 @@ Nomenclatura de Variáveis: Utiliza-se o padrão camelCase (ex: nomeCompleto).
 
 ---
 
-## Sprint Backlog <a name="backsprint"><a>
+## 📝 Sprint Backlog <a name="backsprint"><a>
 
 
-[Clique aqui para ser redirecionado](https://github.com/DuuhZero/backlog/tree/main/docs)
+### [Clique aqui para ser redirecionado](https://github.com/DuuhZero/backlog/tree/main/docs)
+
+---
 
 ## 👥 Equipe <a name="equipe"><a>
 |  Foto        |     Função    |           Nome            |                            LinkedIn                            |                      GitHub                       |
