@@ -53,7 +53,7 @@
 ---
 
 ## 👁 Visão do Projeto <a name="visao-do-projeto"></a>
-<p>Nosso projeto é um Sistema de Gestão e Controle de Ponto Eletrônico focado em fornecer uma gestão integrada e eficiente para organizações. A solução permitirá o registro e controle automatizado de marcações de ponto, acompanhamento de horas extras, gestão de férias e folgas, e geração de relatórios detalhados. O sistema também contará com alertas automáticos para marcações não realizadas, garantindo conformidade com as normas trabalhistas. Com uma interface amigável e relatórios claros, o sistema visa facilitar o controle de ponto em tempo real, aumentando a eficiência operacional e reduzindo erros manuais.</p>
+<p>Nosso projeto é um Sistema de Coleta de Dados Meteorológico em Tempo Real, com foco na prevenção de riscos e desastres naturais. A plataforma visa centralizar e analisar informações, como índices de chuva, captadas por uma rede de sensores de baixo custo. Será incluso um modelo dinâmico para a aceitação de diversos tipos de estações, facilitando a obtenção de dados oriundos de diversas fontes. As informações serão exibidas em um painel de controle moderno e intuitivo, enquanto um sistema de notificações proativo alertará os usuários sobre potenciais riscos, como inundações e deslizamentos. O sistema também incluirá um espaço de conteúdo educacional, expondo de forma clara a lógica utilizada pelo sistema para captação de dados e informações estimadas.</p>
 
 ---
 
