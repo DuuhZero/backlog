@@ -132,7 +132,7 @@ Nomenclatura de Variáveis: Utiliza-se o padrão camelCase (ex: nomeCompleto).
 | 15   |      |             |            | Como Cliente, quero que o sistema tenha um modelo dinâmico que seja capaz de receber e registrar diversas estações com sensores diferentes, para a possibilidade de receber os dados de diversas fontes.|        |
 | 16   |      |             |            | Como Administrador, quero consultar o histórico de alertas gerados. Para que eu entenda os padrões de ocorrências.|        |
 | 17   |      |             |            | Como Cliente, quero uma estação meteorológica física montada com sensores. para que os dados sejam coletados em tempo real e enviados ao sistema.|        |
-| 18   |      |             |            | Como Administrador, quero que o sistema tenha um serviço de recepção de dados em tempo real, para que múltiplas estações enviem informações sem perda.|        |
+| 18   |      |             |            | Como Administrador, quero que o sistema tenha um serviço de recepção de dados a cada periodo de tempo, para que múltiplas estações enviem informações sem perda.|        |
 
 
 
