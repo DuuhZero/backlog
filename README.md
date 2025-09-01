@@ -11,10 +11,10 @@
 ### ⏳ Status do projeto: 0/3 Sprint
 
 ### 📃 Respositórios 
-- [Repositório FrontEnd](https://github.com/Equipe-Skyfall/)
-- [Respositório BackEnd](https://github.com/Equipe-Skyfall/)
-- [Respositório BD](https://github.com/Equipe-Skyfall/)
-- [Respositório Principal](https://github.com/Equipe-Skyfall/)
+- [Repositório FrontEnd](https://github.com/Equipe-Skyfall/skytrack-front)
+- [Respositório BackEnd](https://github.com/Equipe-Skyfall/skytrack-back)
+- [Respositório BD](https://github.com/Equipe-Skyfall/skytrack-bd)
+- [Respositório Principal](https://github.com/Equipe-Skyfall/skytrack)
 
 ---
 
@@ -115,16 +115,18 @@ Nomenclatura de Variáveis: Utiliza-se o padrão camelCase (ex: nomeCompleto).
 
 | RANK | SPRINT | PRIORIDADE | ESTIMATIVA | USER STORY (NOME)                                             | STATUS |
 |:----:|:------:|:----------:|:----------:|:-------------------------------------------------------------:|:------:|
-| 1    |       |             |            |                                                               |        |
-| 2    |       |             |            |                                                               |        |
-| 3    |       |             |            |                                                               |        |
-| 4    |       |             |            |                                                               |        |
-| 5    |       |             |            |                                                               |        |
-| 6    |       |             |            |                                                               |        |
-| 7    |       |             |            |                                                               |        |
-| 8    |       |             |            |                                                               |        |
-| 9    |       |             |            |                                                               |        |
-| 10   |       |             |            |                                                               |        |
+| 1    |   1   |             |            | Como Administrador, quero um CRUD para as estações, para gerenciamento de suas informações.|        |
+| 2    |   1   |             |            | Como Usuário Público, quero visualizar a lista de estações, para que eu saiba qual é a estação dos dados exibidos.|        |
+| 2    |   1   |             |            | Como Administrador, quero um CRUD para os parâmetros utilizados nas estações, para manusear os dados de maneira adequada.|        |
+| 3    |   1   |             |            | Como Administrador, quero um CRUD para os alertas de condições meteorológicas, para gerar notificações com base em informações meteorológicas.|        |
+| 2    |   1   |             |            | Como Usuário Público, quero que seja possível receber alertas relevantes, para que eu saiba quando condições perigosas ocorrerem.|        |
+| 4    |   1   |             |            | Como Administrador, quero um CRUD para os usuários da aplicação, para melhor gerênciamento de acesso.|        |
+| 5    |       |             |            | Como Cliente, quero um controle de acesso que diferencie as permissões do Administrador e do Usuário Público, para que tenha segurança no gerênciamento do sistema.|        |
+| 6    |       |             |            | Como Usuário Público, quero acessar um Dashboard de informações, para que eu compreenda os dados meteorológicos facilmente.|        |
+| 7    |       |             |            | Como Administrador, quero poder editar as informações exibidas no Dashboard, para dados de minha escolha.|        |
+| 8    |       |             |            | Como Administrador, quero gerar relatórios detalhados, para que seja possível a geração de insights.|        |
+| 9    |       |             |            | Como Usuário Público, quero acessar relatórios prontos em PDF, para que eu possa utilizar como fonte de dados.|        |
+| 10   |       |             |            | Como Usuário Público, quero acessar um guia explicativo sobre cada parâmetro meteorológico, incluindo as fórmulas utilizadas, para que eu aprenda o que significam os dados coletados.|        |
 | 11   |       |             |            |                                                               |        |
 | 12   |       |             |            |                                                               |        |
 | 13   |       |             |            |                                                               |        |
