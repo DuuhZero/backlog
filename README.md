@@ -129,9 +129,10 @@ Nomenclatura de Variáveis: Utiliza-se o padrão camelCase (ex: nomeCompleto).
 | 12    |      |             |            | Como Usuário Público, quero acessar relatórios prontos em PDF, para que eu possa utilizar como fonte de dados.|        |
 | 13   |      |             |            | Como Usuário Público, quero acessar um guia explicativo sobre cada parâmetro meteorológico, incluindo as fórmulas utilizadas, para que eu aprenda o que significam os dados coletados.|        |
 | 14   |      |             |            | Como Administrador, quero processar e armazenar automaticamente os dados recebidos por meio de um datalogger, para que eles fiquem disponíveis no Dashboard|        |
-| 15   |      |             |            | Como Cliente, quero que o sistema tenha um modelo dinâmico que seja capaz de receber e registrar diversas estações com sensores diferentes, para a possibilidade de diversas estações.|        |
+| 15   |      |             |            | Como Cliente, quero que o sistema tenha um modelo dinâmico que seja capaz de receber e registrar diversas estações com sensores diferentes, para a possibilidade de receber os dados de diversas fontes.|        |
 | 16   |      |             |            | Como Administrador, quero consultar o histórico de alertas gerados. Para que eu entenda os padrões de ocorrências.|        |
 | 17   |      |             |            | Como Cliente, quero uma estação meteorológica física montada com sensores. para que os dados sejam coletados em tempo real e enviados ao sistema.|        |
+| 18   |      |             |            | Como Administrador, quero que o sistema tenha um serviço de recepção de dados em tempo real, para que múltiplas estações enviem informações sem perda.|        |
 
 
 
