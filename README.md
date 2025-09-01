@@ -121,14 +121,14 @@ Nomenclatura de Variáveis: Utiliza-se o padrão camelCase (ex: nomeCompleto).
 | 3    |   1   |             |            | Como Administrador, quero um CRUD para os alertas de condições meteorológicas, para gerar notificações com base em informações meteorológicas.|        |
 | 2    |   1   |             |            | Como Usuário Público, quero que seja possível receber alertas relevantes, para que eu saiba quando condições perigosas ocorrerem.|        |
 | 4    |   1   |             |            | Como Administrador, quero um CRUD para os usuários da aplicação, para melhor gerênciamento de acesso.|        |
-| 5    |       |             |            | Como Cliente, quero um controle de acesso que diferencie as permissões do Administrador e do Usuário Público, para que tenha segurança no gerênciamento do sistema.|        |
+| 5    |       |             |            | Como Cliente, quero um controle de acesso que diferencie as permissões do Administrador e do Usuário Público, para que tenha segurança no gerênciamento de informações do sistema.|        |
 | 6    |       |             |            | Como Usuário Público, quero acessar um Dashboard de informações, para que eu compreenda os dados meteorológicos facilmente.|        |
 | 7    |       |             |            | Como Administrador, quero poder editar as informações exibidas no Dashboard, para dados de minha escolha.|        |
 | 8    |       |             |            | Como Administrador, quero gerar relatórios detalhados, para que seja possível a geração de insights.|        |
 | 9    |       |             |            | Como Usuário Público, quero acessar relatórios prontos em PDF, para que eu possa utilizar como fonte de dados.|        |
 | 10   |       |             |            | Como Usuário Público, quero acessar um guia explicativo sobre cada parâmetro meteorológico, incluindo as fórmulas utilizadas, para que eu aprenda o que significam os dados coletados.|        |
-| 11   |       |             |            |                                                               |        |
-| 12   |       |             |            |                                                               |        |
+| 11   |       |             |            | Como Administrador, quero processar e armazenar automaticamente os dados recebidos por meio de um datalogger, para que eles fiquem disponíveis no Dashboard|        |
+| 12   |       |             |            | Como Cliente, quero que o sistema tenha um modelo dinâmico que seja capaz de receber e registrar diversas estações com sensores diferentes, para a possibilidade de diferentes estações.|        |
 | 13   |       |             |            |                                                               |        |
 | 14   |       |             |            |                                                               |        |
 | 15   |       |             |            |                                                               |        |
