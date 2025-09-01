@@ -27,14 +27,14 @@
 - [Sprint Backlog](#backsprint)
 ---
 
-## 🏥 Dores do Cliente
+## 🏥Dores do Cliente
 
 ### Verificar
 **Problemas Identificados**:
-- **Erros e Inconsistências**: Processos manuais de registro de ponto levam a falhas frequentes, comprometendo a precisão e a rastreabilidade das horas trabalhadas.
-- **Falta de Centralização**: A ausência de um sistema centralizado dificulta a gestão de horas extras, férias e folgas, afetando a produtividade e a comunicação entre setores.
-- **Ineficiência no Controle de Ponto**: A gestão de marcações e ajustes de jornada é prejudicada pela falta de organização e dados acessíveis.
-- **Decisões Estratégicas Prejudicadas**: Sem dados claros e estruturados, as decisões sobre horas extras, banco de horas e planejamento de férias são limitadas, afetando o desempenho da organização.
+- **Ausência de dados em tempo real**: Atualmente o cliente não dispõe de informações atualizadas instantaneamente sobre direção e velocidade do vento, índice pluviométrico,umidade, temperatura e pressão.
+- **Dificuldade em antecipar riscos**: Sem medições contínuas, se torna complexo a análise de riscos como enchentes, deslizamentos ou eventos climáticos extremos com antecedência.
+- **Falta de Padronização**: Estações e sensores seguem padrões diferentes, afetando o recebimento de dados de multiplas fontes em um único sistema.
+- **Decisões Estratégicas Prejudicadas**: Sem dados claros e estruturados, o que afeta o entendimento de usuários comuns (Ex: Alunos, Pesquisadores)
 
 ### Planejar
 **Objetivos**:
@@ -48,8 +48,7 @@
 - **Monitoramento do Sistema de Automação**: Avaliar a eficácia da automação implementada, medindo a redução de erros e inconsistências nos registros de ponto.
 - **Verificação da Centralização de Dados**: Acompanhar se todos os setores estão utilizando o sistema centralizado de maneira eficiente, garantindo a adesão e facilitando a integração dos processos.
 - **Avaliação do Controle de Jornadas**: Monitorar a gestão de jornadas e ajustes de ponto, assegurando que os processos estejam otimizados.
-- **Análise dos Relatórios Estratégicos**: Revisar regularmente os relatórios para garantir que os dados ofereçam insights relevantes, possibilitando ajustes rápidos nas estratégias de gestão de horas e férias.
-
+- **Análise dos Relatórios Estratégicos**: Revisar regularmente os relatórios para garantir que os dados ofereçam insights relevantes, possibilitando ajustes rápidos nas estratégias de gestão de horas e férias|
 ---
 
 ## 👁 Visão do Projeto <a name="visao-do-projeto"></a>
