@@ -31,24 +31,25 @@
 
 ### Verificar
 **Problemas Identificados**:
-- **Ausência de dados em tempo real**: Atualmente o cliente não dispõe de informações atualizadas instantaneamente sobre direção e velocidade do vento, índice pluviométrico,umidade, temperatura e pressão.
+- **Ausência de dados em tempo real**: Atualmente o cliente não dispõe de informações atualizadas instantaneamente sobre direção e velocidade do vento, índice pluviométrico, umidade, temperatura e pressão.
 - **Dificuldade em antecipar riscos**: Sem medições contínuas, se torna complexo a análise de riscos como enchentes, deslizamentos ou eventos climáticos extremos com antecedência.
 - **Falta de Padronização**: Estações e sensores seguem padrões diferentes, afetando o recebimento de dados de multiplas fontes em um único sistema.
 - **Decisões Estratégicas Prejudicadas**: Sem dados claros e estruturados, o que afeta o entendimento de usuários comuns (Ex: Alunos, Pesquisadores)
 
 ### Planejar
 **Objetivos**:
-- **Automação do Controle de Ponto**: Implementar um sistema que minimize a entrada de dados manual, reduzindo erros e melhorando a rastreabilidade das horas trabalhadas.
-- **Centralização dos Processos**: Criar um sistema centralizado que permita a integração dos dados de ponto, férias, folgas e horas extras, facilitando a gestão e a tomada de decisões.
-- **Melhoria no Controle de Jornadas**: Estruturar um módulo específico para gestão de jornadas flexíveis e ajustes de ponto, tornando os processos mais ágeis e eficientes.
-- **Disponibilização de Dados Estratégicos**: Desenvolver relatórios analíticos e dashboards que ofereçam insights sobre horas trabalhadas, horas extras e ausências, suportando decisões estratégicas.
+- **Instalação de Estações**: Montar e instalar estações meteorológicas de baixo custo, com sensores para chuva, vento, temperatura, umidade e pressão.
+- **Sistema de Alerta Automático**: Implementar um sistema de alertas automáticos, notificando em tempo real sobre riscos como chuvas intensas, enchentes e deslizamentos com base na média da medição de uma ou varias estações.
+- **Centralização de modelos**: Garantir um modelo de dados dinâmico que permita integrar diferentes tipos de sensores e protocolos, como LoRa, Sigfox e NB-IoT, sendo realizado uma padronização desses modelos.
+- **Estruturação para acadêmicos**: Envolver alunos do ensino médio por meio de dashboards interativos e conteúdo educativo, clarificando de maneira que o entendimento seja próprio, não sendo necessário nenhum nível superior para compreensão.
+- **Escalabilidade e Desenvolvimento**: Preparar o sistema para escalabilidade, possibilitando a adição de novas estações, assim otimizando o escopo para recepção de dados.
 
 ### Controlar
 **Ações para Garantir a Efetividade**:
-- **Monitoramento do Sistema de Automação**: Avaliar a eficácia da automação implementada, medindo a redução de erros e inconsistências nos registros de ponto.
-- **Verificação da Centralização de Dados**: Acompanhar se todos os setores estão utilizando o sistema centralizado de maneira eficiente, garantindo a adesão e facilitando a integração dos processos.
-- **Avaliação do Controle de Jornadas**: Monitorar a gestão de jornadas e ajustes de ponto, assegurando que os processos estejam otimizados.
-- **Análise dos Relatórios Estratégicos**: Revisar regularmente os relatórios para garantir que os dados ofereçam insights relevantes, possibilitando ajustes rápidos nas estratégias de gestão de horas e férias|
+- **Monitoramento da Rede de Estações**: Acompanhar se todas as redes estão ligadas por meio do modelo de dados dinâmico, identificando falhas em sensores ou na comunicação
+- **Garantir a escalabilidade da solução**: Monitorar por meio de testes de carga e desempenho à medida que novas estações forem adicionadas, sendo possível observar a operação da nova estação em conjunto das antigas.
+- **Verificação de Medição para Alertas**: Verificar por meio de alertas gerados anteriormente a veracidade por meio dos dados coletados das estações, possibilitando de maneira palpável a captação das medições responsáveis por gerar notificações de risco.
+- **Análise dos Relatórios Estratégicos**: Revisar regularmente os relatórios para garantir que os dados ofereçam insights relevantes, possibilitando ajustes rápidos nas estratégias impostas sobre as estações.
 ---
 
 ## 👁 Visão do Projeto <a name="visao-do-projeto"></a>
