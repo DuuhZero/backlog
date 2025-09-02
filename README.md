@@ -132,7 +132,7 @@ Nomenclatura de Variáveis: Utiliza-se o padrão camelCase (ex: nomeCompleto).
 | 15   |   3   |    Baixa    |      3     | Como Usuário, eu quero visualizar conceitos estatísticos nos dashboards, para análises mais precisas.|        |
 | 16    |  3   |    Baixa    |      2     | Como Usuário Público, quero acessar relatórios prontos em PDF, para que eu possa utilizar como fonte de dados.|        |
 | 17   |   3   |    Baixa    |      2     | Como Usuário Público, quero acessar um guia explicativo sobre cada parâmetro meteorológico, incluindo as fórmulas utilizadas, para que eu aprenda o que significam os dados coletados.|         |
-| 18   |   3   |             |      8     | Como Cliente, quero uma estação meteorológica física montada com sensores, para que os dados sejam coletados em tempo real e enviados ao sistema.|        |
+| 18   |   3   |   Baixa    |      8     | Como Cliente, quero uma estação meteorológica física montada com sensores, para que os dados sejam coletados em tempo real e enviados ao sistema.|        |
 
 
 
