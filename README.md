@@ -23,8 +23,8 @@
 - [Tecnologias utilizadas](#tecnologias)
 - [MVP](#mvp)
 - [Product Backlog](#backlog)
-- [Equipe](#equipe)
 - [Sprint Backlog](#backsprint)
+- [Equipe](#equipe)
 ---
 
 ## 🏥Dores do Cliente
